@@ -21,7 +21,6 @@ This repository contains two main components: a client-side application (`fasten
 - **Description:** An Express.js server that provides a RESTful API for book management. It handles data persistence and serves as the backend for the client application.
 - **Key Technologies:**
     - Express.js (v5.1.0)
-    - Prisma (v6.19.0) for database access
     - MongoDB (via Mongoose v8.19.3)
     - CORS (v2.8.5) for cross-origin resource sharing
     - TypeScript (v5.9.3)

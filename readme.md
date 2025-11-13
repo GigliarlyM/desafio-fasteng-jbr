@@ -35,4 +35,4 @@ The server exposes the following endpoints for book management:
 
 ## Getting Started
 
-(Further instructions on how to set up and run the client and server would go here.)
+

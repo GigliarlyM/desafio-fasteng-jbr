@@ -25,6 +25,14 @@ This repository contains two main components: a client-side application (`fasten
     - CORS (v2.8.5) for cross-origin resource sharing
     - TypeScript (v5.9.3)
 
+## Server API Endpoints
+
+The server exposes the following endpoints for book management:
+
+- **`GET /livros`**: Fetches a list of all books from the database.
+- **`POST /livros`**: Adds a new book to the database. The book data should be sent in the request body.
+- **`DELETE /livros/:id`**: Deletes a book from the database based on its unique ID.
+
 ## Getting Started
 
 (Further instructions on how to set up and run the client and server would go here.)
